@@ -184,7 +184,7 @@ public class AssignmentController {
     }
 
     /**
-     * 获取当前系统路径
+     * 获取当前系统路
      */
     private String getUploadPath() {
         File path = null;
